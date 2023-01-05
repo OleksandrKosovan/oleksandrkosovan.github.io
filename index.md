@@ -15,9 +15,12 @@
 
 ### Place Deduplication. Foursquare - Location Matching
 
-Using a dataset of over one-and-a-half million Places entries heavily altered to include noise, duplications, extraneous, or incorrect information, we produced an algorithm that predicts which Place entries represent the same point-of-interest. Each Place entry includes attributes like the name, street address, and coordinates. Successful submissions will identify matches with the greatest accuracy. [Solution overview...](https://beemind.tech/blog-geodd.html)
+Using a dataset of over one-and-a-half million Places entries heavily altered to include noise, duplications, extraneous, or incorrect information, we produced an algorithm that predicts which Place entries represent the same point-of-interest. Each Place entry includes attributes like the name, street address, and coordinates. Successful submissions will identify matches with the greatest accuracy. Solution overview in [![image](https://img.shields.io/badge/beemind-blog-%2337005a)](https://beemind.tech/blog-geodd.html)
 
 [![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kosovanolexandr)
+
+
+
 
 <img src="images/place_dd.png?raw=true"/>
 
