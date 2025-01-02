@@ -7,6 +7,15 @@
 - *Kosovan, O., Datsko, M.* (2024). **Complex Comparison of Statistical and Econometrics Methods for Sales Forecasting**. In: Silhavy, R., Silhavy, P. (eds) Data Analytics in System Engineering. CoMeSySo 2023. Lecture Notes in Networks and Systems, vol 935. Springer, Cham. [![image](https://img.shields.io/badge/Preprint-PDF-lightgrey)](https://github.com/OleksandrKosovan/complex-sales-forecasting/blob/main/files/preprint-complex-sales-forecasting.pdf)  [![DOI:10.1007/978-3-031-54820-8_27](https://zenodo.org/badge/DOI/10.1007/978-3-031-54820-8_27.svg)](https://doi.org/10.1007/978-3-031-54820-8_27)
 - *Trokhymovych, M., Kosovan, O.* (2023). **GeoDD: End-to-End Spatial Data De-duplication System**. In: Silhavy, R., Silhavy, P., Prokopova, Z. (eds) Data Science and Algorithms in Systems. CoMeSySo 2022. Lecture Notes in Networks and Systems, vol 597. Springer, Cham. [![image](https://img.shields.io/badge/Preprint-PDF-lightgrey)](pdf/GeoDD.pdf)  [![DOI:10.1007/978-3-031-21438-7_60](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-031-21438-7_60)
 
+# Public Speaking
+
+### GenAI is NOT all you need  
+**Event:** [IT Arena](https://itarena.ua/)  
+**Details:** A presentation discussing the limitations of Generative AI and presenting alternatives for scaling and cost efficiency.  
+
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-red?logo=youtube&logoColor=white&style=flat-square)](https://youtu.be/A2-7DY2paPo?list=LL)
+
+
 # Projects
 
 ### Place Deduplication. Foursquare - Location Matching
