@@ -104,6 +104,13 @@ line-height: 1.7;
 margin-bottom: 2rem;
 }
 
+.associations {
+font-size: 0.95rem;
+line-height: 1.6;
+margin-bottom: 2rem;
+color: #555;
+}
+
 .quick-links {
 display: flex;
 gap: 1rem;
@@ -300,6 +307,43 @@ list-style: none;
 margin-bottom: 2rem;
 }
 
+/* Interests Section */
+.interests-section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #eee;
+}
+
+.interests-section h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.interests-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.interest-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: #f8f9fa;
+    color: #333;
+    border-radius: 5px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: background 0.3s;
+}
+
+.interest-tag:hover {
+    background: #e9ecef;
+}
+
+
 .press-coverage li {
 margin-bottom: 0.5rem;
 padding: 0.5rem 0;
@@ -365,6 +409,10 @@ main {
 .experience-header {
     flex-direction: column;
     align-items: start;
+}
+
+.interests-container {
+    justify-content: center;
 }
 }
 
